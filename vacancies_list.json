@@ -1,0 +1,758 @@
+[
+  {
+    "vacancy_name": "Web Developer/Website Creation",
+    "salary_from": 0,
+    "salary_to": 100000,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/94896424",
+    "vacancy_skills": "Knowledge of basic web design principles. Knowledge of selling websites. Basic knowledge of HTML and CSS. Fulfilling orders based on technical specifications (TS). Ability to work in a team.",
+    "vacancy_duties": "Creating business card websites, landing pages, and online stores on website builders (Tilda, Ukit, Wix, etc.). A responsible approach. Meeting deadlines for orders."
+  },
+  {
+    "vacancy_name": "Web Developer",
+    "salary_from": 80000,
+    "salary_to": 0,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/95750110",
+    "vacancy_skills": "Experience with version control systems (Git). Experience implementing web application security measures. A high degree of self-organization and responsibility.",
+    "vacancy_duties": "Developing and supporting frontend and backend parts of the bar network platform. Integrating the platform with external APIs and payment systems."
+  },
+  {
+    "vacancy_name": "Frontend Developer (HTML/CSS Coder / Web Developer)",
+    "salary_from": 65000,
+    "salary_to": 70000,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/95794722",
+    "vacancy_skills": "Proficient knowledge of HTML5, CSS3, JavaScript, and jQuery. Experience in web development (website layout, front-end) of at least 1 year.",
+    "vacancy_duties": "Working on existing client websites. Working on unique and interesting tasks. Proposing and implementing ideas for improving and optimizing the work of the web studio."
+  },
+  {
+    "vacancy_name": "Web Developer",
+    "salary_from": 100000,
+    "salary_to": 0,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/95831476",
+    "vacancy_skills": "Experience with similar or related tasks.",
+    "vacancy_duties": "Developing an online store for computer equipment on PrestaShop."
+  },
+  {
+    "vacancy_name": "Web Designer (Tilda No-Code Developer)",
+    "salary_from": 50000,
+    "salary_to": 0,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/95274068",
+    "vacancy_skills": "Proficiency in Tilda. Understanding usability and responsive design principles. Experience in design and layout of presentations is a plus. Experience in designing and developing websites on no-code platforms.",
+    "vacancy_duties": "Designing and laying out one-page websites (landing pages) according to technical specifications. Layout of websites on no-code platforms like Tilda."
+  },
+  {
+    "vacancy_name": "Web Programmer",
+    "salary_from": 60000,
+    "salary_to": 120000,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/95838359",
+    "vacancy_skills": "Knowledge of information security methods in network applications. Experience in developing and launching websites and web applications. Ability to work in a team.",
+    "vacancy_duties": "Supporting and developing websites. Developing software. Optimizing code. Writing and refining additional modules, new services, and scripts."
+  },
+  {
+    "vacancy_name": "Junior Web Developer",
+    "salary_from": 50000,
+    "salary_to": 0,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/94223701",
+    "vacancy_skills": "Experience in web development for at least six months. Theoretical knowledge of web development and OOP. Knowledge of PHP. English language proficiency...",
+    "vacancy_duties": "Perform assigned tasks and write detailed comments on them. A lot of learning."
+  },
+  {
+    "vacancy_name": "Junior PHP Developer in a Web Studio",
+    "salary_from": 60000,
+    "salary_to": 120000,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/95841172",
+    "vacancy_skills": "We expect completed projects, including non-commercial ones. Web technologies: basic knowledge of HTML and CSS. For JS, we expect basic skills...",
+    "vacancy_duties": "TOP-15 among Moscow web store development agencies in the premium segment. 15th place among agencies in Russia in the SEO category..."
+  },
+  {
+    "vacancy_name": "Front-end Developer / Markup Specialist / Web Developer",
+    "salary_from": 40000,
+    "salary_to": 60000,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/95256280",
+    "vacancy_skills": "Accuracy and the desire to do high-quality work, even for small tasks, are very important. Thoroughness and attention to detail in studying the technical specifications (TZ) and implementing them.",
+    "vacancy_duties": "Developing, refining, and maintaining several websites. Developing UI on websites. Optimizing website loading speed. Optimizing code according to SEO specialist requirements."
+  },
+  {
+    "vacancy_name": "Web Programmer Assistant",
+    "salary_from": 35000,
+    "salary_to": 0,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/95510514",
+    "vacancy_skills": "We do not require work experience in this field. Basic knowledge of web development + the desire to grow and develop in this area is important.",
+    "vacancy_duties": "Supporting websites on CMS Drupal 7x. Layout, adaptation of templates, and creation of CMS Drupal 10x themes."
+  },
+  {
+    "vacancy_name": "Frontend Developer (HTML Markup / Web Developer)",
+    "salary_from": 65000,
+    "salary_to": 70000,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/93988233",
+    "vacancy_skills": "Confident knowledge of HTML5, CSS3, JavaScript, jQuery. Experience in web development (site markup, front-end) for at least...",
+    "vacancy_duties": "...existing client websites. Working on non-standard and interesting tasks. Offering and implementing ideas to improve and optimize the work of the web studio."
+  },
+  {
+    "vacancy_name": "Web-разработчик Frontend",
+    "salary_from": 35000,
+    "salary_to": 45000,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/95179504",
+    "vacancy_skills": "Уверенные знания HTML, CSS. Знания принципов адаптивной верстки. Умение верстать по дизайн-макету. Умение устанавливать расширения и компоненты пользовательского интерфейса. ",
+    "vacancy_duties": "Верстка шаблонов сайтов под CMS. Наполнение базовым контентом. Разработка интерактивных <highlighttext>веб</highlighttext>-страниц. Поддержка существующих проектов."
+  },
+  {
+    "vacancy_name": "Web-разработчик",
+    "salary_from": 21000,
+    "salary_to": 0,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/95343447",
+    "vacancy_skills": "Опыт разработки и поддержки сайтов на 1С-Битрикс, CMS Wordpress. Опыт работы с хостингами, VDS/VPS, битрикс машина. ",
+    "vacancy_duties": "Поддержка и разработка <highlighttext>веб</highlighttext> сайтов, преимущественно на 1с-Битрикс. Выполнение и оценка технических заданий. Ведение таск трекера (Битрикс 24..."
+  },
+  {
+    "vacancy_name": "Web-программист",
+    "salary_from": 40000,
+    "salary_to": 120000,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/93080980",
+    "vacancy_skills": "Знание 1С-Битрикс. Знание php. Знание реляционных баз данных (mysql/mariadb). Знание html, css, jquery.",
+    "vacancy_duties": "Разработка и доработка сайтов на платформе 1С-Битрикс."
+  },
+  {
+    "vacancy_name": "Веб-мастер программист (поддержка и доработка сайтов, удаленно на дому)",
+    "salary_from": 40000,
+    "salary_to": 50000,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/95603401",
+    "vacancy_skills": "Опыт работы на аналогичной должности от 1 года обязателен. Усидчивость и исполнительность. Аналитическое мышление. Знания HTML, CSS, javascript, PHP, SQL...",
+    "vacancy_duties": "Техническое обслуживание и настройка <highlighttext>web</highlighttext>-сайтов клиентов компании. Модернизация / доработка, расширение функционала сайтов. Администрирование серверов клиентов, перенос сайтов. "
+  },
+  {
+    "vacancy_name": "Web-разработчик",
+    "salary_from": 50000,
+    "salary_to": 0,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/95121891",
+    "vacancy_skills": "Умение быстро находить решения новых задач. Уверенная работа HTML, CSS, PHP. Умение работать с популярными CMS WordPress, Битрикс 1С...",
+    "vacancy_duties": "Разработкой сайтов (интернет-магазины, корпоративные сайты, Landing). Разработкой <highlighttext>web</highlighttext> приложений. SEO продвижением. Контекстной и таргетированной рекламой. Продвижением на маркетплейсах и..."
+  },
+  {
+    "vacancy_name": "Web-программист/веб-разработчик (Удалённо, подработка)",
+    "salary_from": 100000,
+    "salary_to": 150000,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/95093333",
+    "vacancy_skills": "Знание языков программирования. - Умение создавать сайты и регистрировать домены с нуля. - Умение эффективно организовывать свою работу и соблюдать сроки. - ",
+    "vacancy_duties": "Создание и настройка <highlighttext>веб</highlighttext>-сайтов и <highlighttext>веб</highlighttext>-страниц согласно техническому заданию. - Предложение вариантов реализации, исходя из поставленной задачи. - "
+  },
+  {
+    "vacancy_name": "Front-end web React Middle разработчик",
+    "salary_from": 80000,
+    "salary_to": 100000,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/95317032",
+    "vacancy_skills": "Стек технологий: Frontend: React.js. Плюсом будет знание Next.js.",
+    "vacancy_duties": "В ваши задачи будет входить верстка высоконагруженных <highlighttext>web</highlighttext>-приложений на Next.js и поддержка существующих проектов. Макеты для верстки будут предоставляться..."
+  },
+  {
+    "vacancy_name": "Web программист",
+    "salary_from": 40000,
+    "salary_to": 0,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/91379219",
+    "vacancy_skills": "Высшее профильное образование. Знание языка C#. React, JavaScript, HTML, CSS, flexbox, TypeScript, медиазапросы в css и умение верстать по макету...",
+    "vacancy_duties": "Разработка портала РТСИМ. <highlighttext>Веб</highlighttext>-программирование."
+  },
+  {
+    "vacancy_name": "Веб-мастер программист (поддержка и доработка сайтов, удаленно на дому)",
+    "salary_from": 40000,
+    "salary_to": 50000,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/95603402",
+    "vacancy_skills": "Опыт работы на аналогичной должности от 1 года обязателен. Усидчивость и исполнительность. Аналитическое мышление. Знания HTML, CSS, javascript, PHP, SQL...",
+    "vacancy_duties": "Техническое обслуживание и настройка <highlighttext>web</highlighttext>-сайтов клиентов компании. Модернизация / доработка, расширение функционала сайтов. Администрирование серверов клиентов, перенос сайтов. "
+  },
+  {
+    "vacancy_name": "Web-программист",
+    "salary_from": 130000,
+    "salary_to": 0,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/92125087",
+    "vacancy_skills": "Знания на уровне middle/junior + фреймворка Symfony. Желание развиваться в бэке. Умение верстать по макетам figma страницы, верстать по...",
+    "vacancy_duties": "Поддержка и разработка сайтов компании, в том числе созданием CMS и СRM. Работа в команде."
+  },
+  {
+    "vacancy_name": "Веб-разработчик / Web-программист / Веб мастер",
+    "salary_from": 60000,
+    "salary_to": 90000,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/95651096",
+    "vacancy_skills": "Умение самостоятельно принимать технологические решения согласно поставленной задаче. Отличное знание HTML5/CSS3/JQUERY. Знание принципов работы с CSS...",
+    "vacancy_duties": "Разработка программной части на базе CMS/CMF: MODX (приоритет), Битрикс. Участие в проектировании <highlighttext>веб</highlighttext>-интерфейсов. Верстка по готовым макетам и..."
+  },
+  {
+    "vacancy_name": "Web-программист",
+    "salary_from": 130000,
+    "salary_to": 0,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/95018071",
+    "vacancy_skills": "C#, MVC, SQL, <highlighttext>web</highlighttext>-разработка. Исполнительность. Знание предметной области.",
+    "vacancy_duties": "Сопровождение <highlighttext>web</highlighttext> проектов группы монтажей. Развитие <highlighttext>web</highlighttext> проектов группы монтажей. <highlighttext>Web</highlighttext>-разработка."
+  },
+  {
+    "vacancy_name": "Web-разработчик",
+    "salary_from": 80000,
+    "salary_to": 80000,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/95784286",
+    "vacancy_skills": "Опыт работы не менее 1 года в разработке. Знание программ HTML, CSS,JavaScript / Typescript, NodeJS, Vue js (2 или 3...",
+    "vacancy_duties": "Разработка интернет магазинов с интеграцией в системы учета по API. Разработка <highlighttext>WEB</highlighttext> форм для сбора и передачи информации в различные..."
+  },
+  {
+    "vacancy_name": "Web - программист",
+    "salary_from": 25000,
+    "salary_to": 95000,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/94388654",
+    "vacancy_skills": "HTML5, CSS3 - базовый уровень, обязательно знать. PHP - желательно знать. MySQL - желательно знать. JavaScript - желательно знать. Опыт разработки сайтов...",
+    "vacancy_duties": "Внесение правок на сайты. Доработка функционала существующих сайтов. Верстка сайтов."
+  },
+  {
+    "vacancy_name": "Младший Web-разработчик",
+    "salary_from": 100000,
+    "salary_to": 0,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/94660474",
+    "vacancy_skills": "Знание Python, Django, умение работать с реляционными базами данных (мы используем MsSQL). «Умение в линукс» на уровне конфигурации apache, nginx...",
+    "vacancy_duties": "Разработка, развитие и поддержка наших <highlighttext>Web</highlighttext>-проектов. Правки на сайтах компании. Наши копирайтеры справляются с большинством задач, но, если им..."
+  },
+  {
+    "vacancy_name": "Web-программист",
+    "salary_from": 100000,
+    "salary_to": 0,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/95262370",
+    "vacancy_skills": "опыт работы со стеком: php, mysql, html, js, css. - умение грамотно сформулировать задачу и результат ее решения. - умение работать в...",
+    "vacancy_duties": "разработка серверной части системы. - участвовать в проработке архитектурных решений. - разработка API. - дорабатывать существующий функционал. - осуществлять простую верстку."
+  },
+  {
+    "vacancy_name": "Веб-программист/Web-разработчик",
+    "salary_from": 80000,
+    "salary_to": 0,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/95819733",
+    "vacancy_skills": "Опыт разработки <highlighttext>веб</highlighttext>-сайтов от 3 лет. Отличное знание HTML, CSS, Javascript, JQuery. Понимание принципов работы серверных языков программирования. ",
+    "vacancy_duties": "Работа с системами контроля версий (Git). Участие в развитии и улучшении <highlighttext>веб</highlighttext>-сервисов компании. Обучение и консультация сотрудников компании по..."
+  },
+  {
+    "vacancy_name": "Web-разработчик / web-дизайнер",
+    "salary_from": 35000,
+    "salary_to": 0,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/95502367",
+    "vacancy_skills": "Знание основных принципов юзабилити и UI/UX дизайна.",
+    "vacancy_duties": "Отсутствие бюрократии: быстрое согласование изменений, документов. Что предстоит делать? <highlighttext>WEB</highlighttext>-<highlighttext>разработчику</highlighttext>. Разрабатывать лендинги, многостраничные сайты и интернет-магазины на Tilda..."
+  },
+  {
+    "vacancy_name": "FullStack-разработчик WEB (удаленно)",
+    "salary_from": 70000,
+    "salary_to": 120000,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/94531217",
+    "vacancy_skills": "Уверенные знания React и Node.js. Умение писать чистый, модульный и эффективный код. Понимание современных архитектур и паттернов проектирования. ",
+    "vacancy_duties": "Разрабатывать <highlighttext>веб</highlighttext>-приложения на React и Node.js. Разработка приложения на ElectronJS. Поддерживать проекты студии. Улучшать и дорабатывать проекты."
+  },
+  {
+    "vacancy_name": "Web-разработчик/HTML-верстальщик",
+    "salary_from": 80000,
+    "salary_to": 0,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/95058435",
+    "vacancy_skills": "Верстка: продвинутые знания HTML5, CSS. Разработка: jQuery, JS, PHP, ReactJS. Знание основ ручного тестирования. Опыт работы с Devtools. ",
+    "vacancy_duties": "Верстка сайтов с нуля. Поддержка имеющихся проектов. Поиск и адаптация HTML-шаблонов. Редизайн/переработка отдельных блоков и элементов. "
+  },
+  {
+    "vacancy_name": "Веб-программист / верстальщик",
+    "salary_from": 72000,
+    "salary_to": 120000,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/95300791",
+    "vacancy_skills": "Он очень хорошо разбирается в PHP 7, SQL,Yii, JS (jquery). Базовые знания CSS/HTML. Знание английского языка будет плюсом...",
+    "vacancy_duties": null
+  },
+  {
+    "vacancy_name": "Начинающий веб-разработчик",
+    "salary_from": 45000,
+    "salary_to": 0,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/92474561",
+    "vacancy_skills": "Знание JavaScript + jQuery, PHP, MySQL. Опыт <highlighttext>WEB</highlighttext>-разработки. Опыт вёрстки сайтов. Знание PhotoShop. Грамотная устная и письменная речь. ",
+    "vacancy_duties": "Участие в разработке сайтов. Правка и модернизация действующих сайтов. Администрирование сайтов (работа с CMS), тестирование, наполнение сайтов контентом."
+  },
+  {
+    "vacancy_name": "Web-разработчик / Backend программист Python",
+    "salary_from": 100000,
+    "salary_to": 200000,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/95022015",
+    "vacancy_skills": "Геоданные и спутниковые снимки: PostGIS, GDAL, Mapnik. Профессиональное (уровень Senior) владение Python. Опыт <highlighttext>web</highlighttext>-разработки на Python. Опыт проектирования БД...",
+    "vacancy_duties": "1. Развивать геоинформационную платформу для визуализации, хранения и управления пространственными данными в сети Интернет - ORBISmap, в основе которой лежат: Docker..."
+  },
+  {
+    "vacancy_name": "Веб-программист",
+    "salary_from": 70000,
+    "salary_to": 130000,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/95782584",
+    "vacancy_skills": "Опыт работы с промышленными CMS. Желательно знание Drupal. Знание PHP, HTML, CSS, JS, XML, jQuery, Bootstrap. Внимательный и ответственный подход...",
+    "vacancy_duties": null
+  },
+  {
+    "vacancy_name": "Web-разработчик",
+    "salary_from": 50000,
+    "salary_to": 150000,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/95054978",
+    "vacancy_skills": "Работать с сайтами, созданными на CMS Bitrix, WordPress (опыт работы не менее 1 года обязателен) . Настраивать интеграцию с нуля для...",
+    "vacancy_duties": "Решать как frontend задачи (верстка, например) , так и backend (настраивать корзину, настраивать фильтры товаров с использованием функционала битрикса или ворд..."
+  },
+  {
+    "vacancy_name": "Веб-разработчик",
+    "salary_from": 40000,
+    "salary_to": 80000,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/95547399",
+    "vacancy_skills": "наличие портфолио. - знание html, Wordpress, css, js (разработка шаблона с нуля и посадка на ядро). - владение Photoshop и Figma. - ",
+    "vacancy_duties": "разработка и верстка сайтов и лендингов. - настройка, администрирование, доработка функционала, ребрендинг действующих сайтов. - внесение правок, коррекция верстки сайта по заданиям..."
+  },
+  {
+    "vacancy_name": "Разработчик сайтов на Тильде (Tilda)/WEB-программист/WEB-разработчик",
+    "salary_from": 75000,
+    "salary_to": 150000,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/95430091",
+    "vacancy_skills": "Личные качества: Позитивное восприятие мира. Коммуникабельность и открытость к коллегам. 100% отдача работе. Нацеленность на результат и желание зарабатывать от...",
+    "vacancy_duties": "О работе. 1) Разработка сайтов на Тильде. 2) Внедрение \"продающих\" корректировок на сайты клиентов. 3) Разметка целей на сайте и..."
+  },
+  {
+    "vacancy_name": "Веб-разработчик",
+    "salary_from": 30000,
+    "salary_to": 50000,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/94524015",
+    "vacancy_skills": "Обязательное знание: PHP, Laravel. Знание фронтенда: HTML, CSS, JS, Vue. Усердность. Внимательность.",
+    "vacancy_duties": "Разработка <highlighttext>веб</highlighttext>-приложений. Разработка <highlighttext>веб</highlighttext> страниц. Поддержка существующих сервисов компании."
+  },
+  {
+    "vacancy_name": "PHP Программист / Web разработчик",
+    "salary_from": 90000,
+    "salary_to": 0,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/95530274",
+    "vacancy_skills": "Уверенное владение PHP, HTML, CSS, Javascript, SQL. Применение современных практик разработки. Опыт работы с CMS Битрикс, Wordpress. Опыт работы с...",
+    "vacancy_duties": null
+  },
+  {
+    "vacancy_name": "Web-программист",
+    "salary_from": 60000,
+    "salary_to": 0,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/95135016",
+    "vacancy_skills": "У Вас есть опыт работы с API. Вы пробовали себя в этой сфере, и у вас есть минимальный опыт. ",
+    "vacancy_duties": "Поддерживать и развивать сайты компании. Дорабатывать разделы сайта. Работать по Frontend и Backend (PHP). HTML-верстка (редко, в зависимости от..."
+  },
+  {
+    "vacancy_name": "Помощник web-программиста",
+    "salary_from": 30000,
+    "salary_to": 0,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/94519810",
+    "vacancy_skills": "Аналитический склад ума - необходимо оперативно работать с большими объемами информации. Возможность получить реальный опыт в области <highlighttext>web</highlighttext>-разработки, приобрести ценные...",
+    "vacancy_duties": "HTML-верстка макетов, интеграция сайтов с CMS. Помощь в разработке крупных <highlighttext>веб</highlighttext>-проектов."
+  },
+  {
+    "vacancy_name": "Tilda Веб-дизайнер/разработчик сайтов на Tilda.cc (в офис Digital агентства)",
+    "salary_from": 30000,
+    "salary_to": 50000,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/94785030",
+    "vacancy_skills": "1. Опыт работы с Tilda.",
+    "vacancy_duties": "Техническое обеспечение проектов: Интеграция с системами аналитики, CRM системами, сбор заявок в Telegram​​​​​​ и другое."
+  },
+  {
+    "vacancy_name": "Junior-Middle Web-программист",
+    "salary_from": 50000,
+    "salary_to": 70000,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/95151339",
+    "vacancy_skills": "Опыт кроссбраузерной, адаптивной вёрстки. Умение работать с фреймворком Bootstrap. Умение писать несложные скрипты для меню и спецэффектов, которые невозможно реализовать...",
+    "vacancy_duties": "Верстка и изменение большого количества <highlighttext>веб</highlighttext> проектов. Знание технологий JS, HTML, CSS, SCSS/SASS, PHP. Поддержка разработанного продукта. "
+  },
+  {
+    "vacancy_name": "WEB - разработчик (Junior/Middle)",
+    "salary_from": 40000,
+    "salary_to": 60000,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/95419887",
+    "vacancy_skills": "PHP. JavaScript. JQuery. Bitrix. Wordpress. Photoshop. Figma. Будет плюсом: - Сертификат <highlighttext>Разработчика</highlighttext> 1C-Битрикс. - Наличие реализованных проектов на 1C...",
+    "vacancy_duties": "Мы - маркетинговое агентство полного цикла «АУДИТОРИЯ». Мы в поиске коллеги, который возьмет на себя задачи по разработке, поддержке и сопровождению..."
+  },
+  {
+    "vacancy_name": "Web-разработчик (Frontend)",
+    "salary_from": 60000,
+    "salary_to": 110000,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/94278278",
+    "vacancy_skills": "Это потребует следующих знаний и умений: Знание Vue JS, Tailwind CSS. Опыт работы с Git.",
+    "vacancy_duties": "Участие в разработке интересных <highlighttext>веб</highlighttext>-проектов. Поддержка текущих проектов компании."
+  },
+  {
+    "vacancy_name": "Web-программист",
+    "salary_from": 40000,
+    "salary_to": 80000,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/94810323",
+    "vacancy_skills": "опыт работы с CRM Bitrix24. - опыт работы с 1С Битрикс (желательно). - знание PHP, HTML и CSS. - ",
+    "vacancy_duties": "верстка сайтов на основе готовых макетов PHP, HTML и CSS. - сопровождение сайтов на обслуживании. - подключение собственной системы управления(обучение). - "
+  },
+  {
+    "vacancy_name": "Web-разработчик (Frontend)",
+    "salary_from": 40000,
+    "salary_to": 0,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/94284911",
+    "vacancy_skills": "Знание HTML5. Знание семантики тегов. Знание CSS3(Flexbox, Grid Layout). Понимание верстки с применением технологии БЭМ. Адаптивная верстка. ",
+    "vacancy_duties": "Разработка сайтов под CMS Битрикс. Выполнение работ на существующих сайтах."
+  },
+  {
+    "vacancy_name": "Разработчик сайтов / Web-дизайнер на Tilda",
+    "salary_from": 15000,
+    "salary_to": 0,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/95364128",
+    "vacancy_skills": "Основные требуемые знания: - умение верстать zero-блоки. - знание особенностей Tilda. - умение собирать сайты на Tilda под ключ. - внимательность к деталям...",
+    "vacancy_duties": "С чем предстоит работать: Работа над дизайном лендингов, многостраничных сайтов. Верстка лендингов и многостраничников на Tilda. Оценивать время на задачи..."
+  },
+  {
+    "vacancy_name": "Web-разработчик",
+    "salary_from": 20000,
+    "salary_to": 100000,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/94345309",
+    "vacancy_skills": "Готов работать на результат. Скорость (в ответах, в выполнении задач и тд). Умеете решать задачи в условиях неопределенности и принимать...",
+    "vacancy_duties": "Разработка сайтов. Работаем с такими CMS как Bitrix, WordPress, Joomla и др. Создание и поддержка сайтов - сеток (сателлиты). Администрирование сайтов. "
+  },
+  {
+    "vacancy_name": "Веб-программист",
+    "salary_from": 70000,
+    "salary_to": 90000,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/94842550",
+    "vacancy_skills": "Хорошо знать: PHP, MySQL. Немного знать (на уровне правки готового кода): HTML/CSS, JS/JQuery, Bootstrap. Желательно: знакомство с WordPress. ",
+    "vacancy_duties": "Выполнять поставленные задачи в срок. Находиться на связи и оперативно реагировать на поставленные задачи в течение рабочего дня. Тестовое задание. "
+  },
+  {
+    "vacancy_name": "Web-программист (Junior)",
+    "salary_from": 40000,
+    "salary_to": 50000,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/80127090",
+    "vacancy_skills": "Имеешь высшее профильное образование. Верстал. Работал с PHP в университете или на домашних проектах.",
+    "vacancy_duties": "Разработка нового функционала существующей системы - и фронтенд и бэкенд. Обсуждение реализации функционала сервисов. Совсем немного верстки."
+  },
+  {
+    "vacancy_name": "Frontend-разработчик web-приложений",
+    "salary_from": 0,
+    "salary_to": 80000,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/94964634",
+    "vacancy_skills": "Django - опыт в создании и поддержке проектов, понимание djangoORM и Django Template Language. DjangoRestFramework - умение создавать собственные эндпоинты и добавлять...",
+    "vacancy_duties": "Разработка ПО (<highlighttext>web</highlighttext>-приложения) в интересах космической отрасли РФ."
+  },
+  {
+    "vacancy_name": "Веб-разработчик PHP (Laravel)",
+    "salary_from": 50000,
+    "salary_to": 80000,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/95520440",
+    "vacancy_skills": "Знание HTML, CSS, JS. Умение конструировать сложные SQL-запросы. Понимание того, как работают джойны, индексы и ключи. Понимание принципов работы...",
+    "vacancy_duties": "Разработка информационных систем. Доработка существующих информационных систем. Поддержка существующих информационных систем."
+  },
+  {
+    "vacancy_name": "Веб-разработчик (Vue) junior",
+    "salary_from": 0,
+    "salary_to": 30000,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/95509640",
+    "vacancy_skills": "Высокая степень обучаемости. Вы можете чего-то не знать, но главный ваш навык - уметь быстро разобраться(не поверхностно). ",
+    "vacancy_duties": "Написание чистого кода с обязательным добавлением комментариев! Участия в проекте - минимум 3 месяца."
+  },
+  {
+    "vacancy_name": "Web программист (back-end)",
+    "salary_from": 80000,
+    "salary_to": 120000,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/95685785",
+    "vacancy_skills": "Опыт разработки сайтов от 1 года. PHP, mysql, js, bootsrap, jquery, css, (less/sass будет плюсом), сопутствующие навыки: git, docker. (",
+    "vacancy_duties": "Работа с собственными сайтами компании. Разработка/доработка сайтов для клиентов Компании."
+  },
+  {
+    "vacancy_name": "Full-Stack Web разработчик",
+    "salary_from": 35000,
+    "salary_to": 50000,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/95502037",
+    "vacancy_skills": "Внимательность к мелочам, отличное знание русского языка. Отличное знание HTML и CSS. Опыт работы в различных CMS. Понимание и умение...",
+    "vacancy_duties": "В студию по продвижению сайтов нужен <highlighttext>разработчик</highlighttext> полного цикла с уклоном на Backend, работа с запросами к БД, их оптимизация..."
+  },
+  {
+    "vacancy_name": "Разработчик веб-приложений на языке PHP",
+    "salary_from": 120000,
+    "salary_to": 150000,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/94241042",
+    "vacancy_skills": "Знания PHP7 и PHP8, фреймворка Symfony 4/5. Вы умеете работать с СУБД MySQL или PostgreSQL. ",
+    "vacancy_duties": "Разработка новых сервисов портала dobro.ru для зарубежного рынка. Поддержка и развитие существующего сервиса."
+  },
+  {
+    "vacancy_name": "Middle Web-программист Frontend JS",
+    "salary_from": 80000,
+    "salary_to": 120000,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/95144989",
+    "vacancy_skills": "Необходимые навыки: TypeScript, React, CSS, JavaScript. Опыт коммерческой разработки на React от 1-го года. Знание и понимание языка TypeScript...",
+    "vacancy_duties": "Разрабатывать UI для различных проектов. Внедрять новые технологии и развиваться вместе с командой."
+  },
+  {
+    "vacancy_name": "Web-разработчик (возможно без опыта)",
+    "salary_from": 0,
+    "salary_to": 35000,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/94329400",
+    "vacancy_skills": "Честный. Умный. Энергичный :). Хорошо развитое логическое мышление приветствуется. Наличие в портфолио необязательно, но будет преимуществом.",
+    "vacancy_duties": "Разработка сайтов на WordPress (корпоративные сайты, интернет-магазины). Продвижение сайтов в поисковых системах (SEO)."
+  },
+  {
+    "vacancy_name": "Веб-разработчик (junior)",
+    "salary_from": 50000,
+    "salary_to": 0,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/94585161",
+    "vacancy_skills": "Желание построить карьеру в <highlighttext>веб</highlighttext>-разработке. Выпускники профильных специальностей. Понимание основ ООП и проектирования БД. Навыки html-вёрстки и программирования...",
+    "vacancy_duties": "Участие во всех этапах разработки сайта. Программирование сайтов и баз данных. Постоянное развитие компетенций."
+  },
+  {
+    "vacancy_name": "Web-разработчик",
+    "salary_from": 100000,
+    "salary_to": 0,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/94195840",
+    "vacancy_skills": "Опыт использования Docker в разработке (docker-compose, dockerfile). Опыт верстки <highlighttext>веб</highlighttext> страниц (css, html, Bootstrap, jQuery). Опыт разработки Frontend приложений...",
+    "vacancy_duties": "Участвовать в разработке сервисов от проектирования до релиза. Поддерживать уже существующие проекты. Разбираться в чужом коде. Быстро находить решения и..."
+  },
+  {
+    "vacancy_name": "Веб-разработчик",
+    "salary_from": 50000,
+    "salary_to": 100000,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/94796603",
+    "vacancy_skills": "Обязательное знание css, html, js, PHP, MYSQL, WordPress. Навык аккуратности написания кода. Желание развиваться и изучать новое. Опыт не менее...",
+    "vacancy_duties": "Разработка сайта по готовым макетам на системе управления (сайт-визитки, сайты-каталоги, интернет магазины, интеграция оплаты). Аккуратность написания кода. "
+  },
+  {
+    "vacancy_name": "Веб-разработчик",
+    "salary_from": 135000,
+    "salary_to": 0,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/93955575",
+    "vacancy_skills": "Уверенное владение: PHP, HTML, CSS, JS, баз данных (СУБД MySQL), Bash, Python. Опыт работы с <highlighttext>web</highlighttext> серверами (Apache, Nginx). ",
+    "vacancy_duties": "Администрирование работы сайта. Разработка, программирование и ведение онлайн проектов. Оптимизация, разработка нового функционала. Настройка и системное администрирование сервера Linux/Unix. "
+  },
+  {
+    "vacancy_name": "Веб-разработчик",
+    "salary_from": 50000,
+    "salary_to": 0,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/95429605",
+    "vacancy_skills": "Уверенные знания PHP 7+, MySQL, Laravel. Знание на хорошем уровне JS, CSS, HTML и всего, что касается фронтенда. ",
+    "vacancy_duties": "Разрабатывать серверную часть сайтов и сервисов на Laravel. Проектировать структуру сайтов, выполнять работы по оптимизации скорости работы сайтов. "
+  },
+  {
+    "vacancy_name": "PHP-разработчик / Web-разработчик / Backend-developer",
+    "salary_from": 60000,
+    "salary_to": 80000,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/95073386",
+    "vacancy_skills": "Опыт работы с PHP 5.6-8.2. Знание jQuery, основ AJAX. Базовые знания верстки (HTML/CSS). Умение работать с...",
+    "vacancy_duties": "...по техническому заданию. Взаимодействие с проект-менеджером, командой <highlighttext>разработчиков</highlighttext> и дизайнеров для реализации проектов. Поддержание и обновление существующих <highlighttext>веб</highlighttext>-сайтов."
+  },
+  {
+    "vacancy_name": "Web-программист (удаленно)",
+    "salary_from": 60000,
+    "salary_to": 0,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/93887375",
+    "vacancy_skills": "Знание PHP является обязательным. - Опыт создания сложных сайтов, верстка. - Уровень подготовки Middle и выше. - Опыт работы с ModX. - ",
+    "vacancy_duties": "Принимаем больше 1000 новых заявок и звонков на покупку недвижимости. - Разработка сайтов с нуля. - Настройка сайтов и добавление нового функционала. - "
+  },
+  {
+    "vacancy_name": "Ученик/Веб-программист (г. Нижний Тагил)",
+    "salary_from": 20000,
+    "salary_to": 40000,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/88957581",
+    "vacancy_skills": "Технические - владение любым объектно-ориентированным языком программирования. Базовые знания php, MySQL, html, css, javascript. Нацеленность на результат. Ответственность. ",
+    "vacancy_duties": null
+  },
+  {
+    "vacancy_name": "Web-программист / php-программист",
+    "salary_from": 80000,
+    "salary_to": 100000,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/94992226",
+    "vacancy_skills": "PHP, Laravel на уровне достаточном для доработки существующих несложных интеграций. Знание JS/фреймворков будет плюсом. Знание или готовность научиться работе...",
+    "vacancy_duties": "Разрабатывать новые <highlighttext>веб</highlighttext>-проекты. Поддерживать существующие."
+  },
+  {
+    "vacancy_name": "WEB-разработчик (Разработчик уровня junior)",
+    "salary_from": 60000,
+    "salary_to": 80000,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/93055902",
+    "vacancy_skills": "Знание C#, NET Core, ASP.NET MVC, ASP.NET <highlighttext>Web</highlighttext> API. Опыт работы с SQL, основы .NET, Entity Framework, VUE JS, ANGULAR. ",
+    "vacancy_duties": "Сопровождение внутреннего ЭДО. Доработка/интеграция. Разработка новых приложений, сервисов, служб. Разработка новых и сопровождение действующих <highlighttext>WEB</highlighttext>-приложений."
+  },
+  {
+    "vacancy_name": "Веб-разработчик",
+    "salary_from": 40000,
+    "salary_to": 0,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/95216232",
+    "vacancy_skills": "Имеете опыт работы в аналогичной должности от 1 года. Знаете: html, CSS, PHP. Битрикс шаблон Аспро. - обязательно! Ответственно относитесь к...",
+    "vacancy_duties": "Выполнение поставленных задач в области <highlighttext>веб</highlighttext>-программирования по основному сайту компании. Взаимодействие с командой."
+  },
+  {
+    "vacancy_name": "Web-программист/Web-разработчик",
+    "salary_from": 60000,
+    "salary_to": 80000,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/95513015",
+    "vacancy_skills": "Знания HTML, CSS на хорошем уровне. Знание JavaScript и Jquery. Знание PHP (Различный уровень). Опыт работы в разработке. ",
+    "vacancy_duties": "Верстка сайта по PSD макету. Натяжка сайта на CMS Modx, Bitrix (Возможно рассмотреть другие). Написание программ разной сложности на Java..."
+  },
+  {
+    "vacancy_name": "Backend Web-разработчик / Junior Backend Web Developer",
+    "salary_from": 70000,
+    "salary_to": 0,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/94821250",
+    "vacancy_skills": "Знание верстки HTML, CSS. Базовые знания SQL и опыт с MySQL. Знание ООП, паттернов проектирования. Базовые знания JavaScript и знание...",
+    "vacancy_duties": "Поддержка сайтов компании (Yii2, Laravel, WordPress): разработка, поддержка, оптимизация, рефакторинг функций, модулей. Разрабатывать и дорабатывать <highlighttext>веб</highlighttext> приложения. "
+  },
+  {
+    "vacancy_name": "Web-программист",
+    "salary_from": 50000,
+    "salary_to": 100000,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/95573891",
+    "vacancy_skills": "...и технологий <highlighttext>веб</highlighttext>-разработки. - Знание PHP 7 (ООП), PHP 8, MySQL, HTML, CSS, JavaScript, JQuery, Figma. - Опыт доработки <highlighttext>веб</highlighttext>-сайтов. - ",
+    "vacancy_duties": "Реализация ТЗ от SEO-специалистов. - Разработка и поддержка <highlighttext>веб</highlighttext>-сайтов. - Доработка функционала сайтов (калькуляторы, фильтры и тд). - Работа по техническому..."
+  },
+  {
+    "vacancy_name": "Специалист по backend поддержке веб-приложения компании / программист",
+    "salary_from": 60000,
+    "salary_to": 90000,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/95160891",
+    "vacancy_skills": "Техническая грамотность (IT-направление). Опыт поддержки приложений/систем. Навыки программирования на Python, приветствуется Java Script. (Полноценной разработки не предполагается, но...",
+    "vacancy_duties": "Обеспечивать уровень сервиса поддержки приложений в соответствии с ключевыми показателями (KPIs). Выявлять возможности для усовершенствования систем и тестирования их в..."
+  },
+  {
+    "vacancy_name": "Web-программист",
+    "salary_from": 80000,
+    "salary_to": 120000,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/95146322",
+    "vacancy_skills": "PHP-<highlighttext>разработчик</highlighttext> со знанием SQL, WordPress, с умением настроить Apache, умением работы в Linux-системах. Требования: PHP-<highlighttext>разработчик</highlighttext> со знанием...",
+    "vacancy_duties": null
+  },
+  {
+    "vacancy_name": "Веб-программист WordPress (удаленно)",
+    "salary_from": 60000,
+    "salary_to": 0,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/94544726",
+    "vacancy_skills": "Обязательный опыт работы в WordPress от 1 года. Знание HTML5, CSS3, PHP, MySQL, JS. Знание адаптивной верстки. ",
+    "vacancy_duties": "Разработка и корректировка сайтов на WordPress (с учетом SEO). Установка и настройка SEO плагинов на WordPress сайты. Редизайн сайтов на..."
+  },
+  {
+    "vacancy_name": "Веб-разработчик",
+    "salary_from": 40000,
+    "salary_to": 70000,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/94731828",
+    "vacancy_skills": "Самостоятельность. Знание HTML + CSS хотя бы на базовом уровне. Умение находить нужную информацию для решения задачи. Умение планировать и...",
+    "vacancy_duties": "Сопровождение текущих сайтов клиентов. Работа с CMS 1С-Битрикс, Wordpress, Tilda и др. Фронтенд разработка. Бэкенд разработка. Настройка системы. "
+  },
+  {
+    "vacancy_name": "Web-разработчик",
+    "salary_from": 100000,
+    "salary_to": 120000,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/95144403",
+    "vacancy_skills": "Опыт программирования на JavaScript от 3-х лет. Опыт разработки на VueJS от 2 лет. Опыт работы с Vuetify от...",
+    "vacancy_duties": "Разработка внутреннего корпоративного портала и сопутствующих систем внутри компании. Рефакторинг существующего функционала. Разработка нового функционала. Участие в разработке новых продуктов..."
+  },
+  {
+    "vacancy_name": "Web-разработчик",
+    "salary_from": 50000,
+    "salary_to": 0,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/94767268",
+    "vacancy_skills": "...и технологий <highlighttext>веб</highlighttext>-разработки. Знание PHP 7 (ООП), PHP 8, MySQL, HTML, CSS, JavaScript, JQuery, Figma. Опыт доработки <highlighttext>веб</highlighttext>-сайтов. ",
+    "vacancy_duties": "Реализация ТЗ от SEO-специалистов. Разработка и поддержка <highlighttext>веб</highlighttext>-сайтов. Доработка старых сайтов. Работа по техническому заданию."
+  },
+  {
+    "vacancy_name": "Web-разработчик frontend",
+    "salary_from": 150000,
+    "salary_to": 0,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/94890986",
+    "vacancy_skills": "JS. React. Желательно SQL (MS SQL, PostgreSQL).",
+    "vacancy_duties": "Разработка <highlighttext>WEB</highlighttext>-приложений, являющихся частью общей программно-аппаратной системы. Cистема представляет из себя набор приложений, функционирующий на различных платформах (Android..."
+  },
+  {
+    "vacancy_name": "Программист-разработчик веб сайтов",
+    "salary_from": 70000,
+    "salary_to": 100000,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/94275982",
+    "vacancy_skills": "Умение выполнять аккуратную и внимательную верстку по макетам Figma (знания react будет преимуществом). Умение оперативно находить решение и исправление поломок...",
+    "vacancy_duties": "Выполнять работу в соответствии с техническими заданиями. Frontend html/css/js программирование с адаптивными версиями (по макетам figma). "
+  },
+  {
+    "vacancy_name": "Web-разработчик",
+    "salary_from": 100000,
+    "salary_to": 0,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/94872557",
+    "vacancy_skills": "ВООБЩЕМ БЫТЬ БОГОМ В ТИЛЬДЕ. Креативность, вкус, знание современных тенденций <highlighttext>web</highlighttext>-дизайна. C опытом работы на платформе Tilda не менее...",
+    "vacancy_duties": "Создание сайтов на основе Tilda. Установка и настройка тем и плагинов Tilda. Разработка и настройка пользовательских функций на основе плагинов..."
+  },
+  {
+    "vacancy_name": "Веб-разработчик",
+    "salary_from": 100000,
+    "salary_to": 0,
+    "vacancy_currency": "RUR",
+    "vacancy_url": "https://hh.ru/vacancy/95021776",
+    "vacancy_skills": "Уверенное знание JavaScript. Уверенное знание php либо phyton. Уверенное знание БД PostgreSQL, MongoDB. Желание развиваться в своей сфере.",
+    "vacancy_duties": "Разработка <highlighttext>веб</highlighttext> приложений на базе функциональных требований. Сопровождение текущих проектов компании. Гибкий, согласовывается индивидуально с каждым сотрудником."
+  }
+]

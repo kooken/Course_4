@@ -1,5 +1,4 @@
 class Vacancy:
-    """Класс, собирающий информацию с разных платформ и создающий унифицированный вариант вакансии для работы"""
     def __init__(
             self,
             vacancy_name: str,
@@ -27,8 +26,8 @@ class Vacancy:
 
     @staticmethod
     def validate_currency(currency):
-        if currency == 'rub':
-            currency = 'RUR'
+        if currency == 'usd':
+            currency = 'USD'
         return currency
 
     def salary_representation(self, salary_from, salary_to):

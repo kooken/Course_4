@@ -7,7 +7,7 @@ VACANCIES_JSON = Path.cwd() / 'vacancies_list.json'
 def main():
     json_file = JSONSaver(VACANCIES_JSON)
 
-    search_query = input("Введите поисковый запрос: ")
+    search_query = input("Enter your search query: ")
 
     min_salary = validate_salary_input()
 
@@ -19,9 +19,9 @@ def main():
 
     sorted_vacancies_by_salary = sort_vacancies_by_salary(hh_vacs, min_salary)
     if len(sorted_vacancies_by_salary) == 0:
-        print("Нет подходящих вакансий")
+        print("No suitable vacancies found")
     else:
-        print(f"Мы подобрали {len(sorted_vacancies_by_salary)} вакансий")
+        print(f"We found {len(sorted_vacancies_by_salary)} vacancies")
         vacancy_presentation(sorted_vacancies_by_salary)
 
 
